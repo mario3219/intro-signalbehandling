@@ -1,0 +1,19 @@
+%% Task 1
+
+% What happens with the frequency answer when you move the zero point?
+% When the signal approaches the zero point, the signal gets an amplitude
+% of zero. Moving the zero point changes at what frequency this occurs
+
+% How does the angle of the zero point affect the amplitude?
+% The angle of the zero point corresponds to the frequency in which the
+% value gets a lower amplitude
+
+% How does the distance from origo affect the amplitude?
+% If you travel along the unit circle, distance from the zero point isnt
+% complete zero, therefore the signal is still affected by other points.
+% The signal doesnt get a complete zero amplitude when approaching the zero
+% point
+
+%% Task 3
+
+load("IIR.mat")

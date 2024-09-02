@@ -1,0 +1,5 @@
+Lowpass filter
+https://www.mathworks.com/help/signal/ref/designfilt.html
+
+Notch filter
+https://www.mathworks.com/help/dsp/ref/iirnotch.html
